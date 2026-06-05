@@ -1,6 +1,6 @@
 # Cybersecurity Learning Notes
 
-This repository  will contain my personal cybersecurity learning notes.
+This repository  will contain my personal cybersecurity learning notes based on my onenotes taken on my device.
 
 I am using this repo to document my progress in cybersecurity, including Linux fundamentals, networking, TryHackMe practice, and security concepts.
 
